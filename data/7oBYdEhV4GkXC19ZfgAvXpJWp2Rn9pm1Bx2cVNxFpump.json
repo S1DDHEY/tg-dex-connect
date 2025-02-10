@@ -1,0 +1,2268 @@
+{
+    "schemaVersion": "1.0.0",
+    "pairs": [
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/bx5pazbqbuyh5yt93xcoshdka6d6vz9azbddg7ze9syh",
+            "pairAddress": "Bx5pAzBqbuYH5yT93XCoShDka6d6vz9AzBddG7zE9syh",
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001309",
+            "priceUsd": "0.2658",
+            "txns": {
+                "m5": {
+                    "buys": 463,
+                    "sells": 452
+                },
+                "h1": {
+                    "buys": 7565,
+                    "sells": 5845
+                },
+                "h6": {
+                    "buys": 131369,
+                    "sells": 100930
+                },
+                "h24": {
+                    "buys": 231452,
+                    "sells": 177791
+                }
+            },
+            "volume": {
+                "h24": 563065623.13,
+                "h6": 329358085.48,
+                "h1": 13284203.95,
+                "m5": 674989.31
+            },
+            "priceChange": {
+                "m5": 4.83,
+                "h1": -14.18,
+                "h6": -44.32,
+                "h24": 269068
+            },
+            "liquidity": {
+                "usd": 2977529.73,
+                "base": 5592534,
+                "quote": 7338.04113
+            },
+            "fdv": 265894969,
+            "marketCap": 265894969,
+            "pairCreatedAt": 1739140168000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/aucgzfzz1nvwfhi4zrrkcexehstfxjcqde5dszzem1hy",
+            "pairAddress": "AuCGZfzz1NvWFHi4zRRkCEXEHStFxJcQDE5DsZZEm1hY",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001314",
+            "priceUsd": "0.2669",
+            "txns": {
+                "m5": {
+                    "buys": 70,
+                    "sells": 41
+                },
+                "h1": {
+                    "buys": 1178,
+                    "sells": 895
+                },
+                "h6": {
+                    "buys": 13853,
+                    "sells": 11052
+                },
+                "h24": {
+                    "buys": 17190,
+                    "sells": 14059
+                }
+            },
+            "volume": {
+                "h24": 52542416.56,
+                "h6": 49236820.76,
+                "h1": 2802615.08,
+                "m5": 163144.5
+            },
+            "priceChange": {
+                "m5": 5.82,
+                "h1": -13.45,
+                "h6": -44.07,
+                "h24": -26.05
+            },
+            "liquidity": {
+                "usd": 880779.38,
+                "base": 779504,
+                "quote": 3311.6812
+            },
+            "fdv": 266978255,
+            "marketCap": 266978255,
+            "pairCreatedAt": 1739143763000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/9gm6nsk8mguorqnlvbgoywku12uabbfxc56wuz5kzvvi",
+            "pairAddress": "9gm6NsK8mGuoRQnLvBGoYWku12UaBbFxC56WuZ5KzvVi",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001320",
+            "priceUsd": "0.2681",
+            "txns": {
+                "m5": {
+                    "buys": 15,
+                    "sells": 9
+                },
+                "h1": {
+                    "buys": 262,
+                    "sells": 312
+                },
+                "h6": {
+                    "buys": 6080,
+                    "sells": 5337
+                },
+                "h24": {
+                    "buys": 10699,
+                    "sells": 9311
+                }
+            },
+            "volume": {
+                "h24": 55774629.01,
+                "h6": 44588321.78,
+                "h1": 1604632.43,
+                "m5": 31160.61
+            },
+            "priceChange": {
+                "m5": 6.04,
+                "h1": -12.73,
+                "h6": -43.21,
+                "h24": 1470
+            },
+            "liquidity": {
+                "usd": 871638.64,
+                "base": 1772647,
+                "quote": 1951.04491
+            },
+            "fdv": 268153867,
+            "marketCap": 268153867,
+            "pairCreatedAt": 1739142447000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/bwxn4kxuttcrzmzfybapcs4b5ubhakqk7mznbpwoypp3",
+            "pairAddress": "BwXn4KXuTTCrzMzfYbAPCs4b5UBhAkQK7mzNbPWoYPP3",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001298",
+            "priceUsd": "0.2633",
+            "txns": {
+                "m5": {
+                    "buys": 18,
+                    "sells": 16
+                },
+                "h1": {
+                    "buys": 348,
+                    "sells": 386
+                },
+                "h6": {
+                    "buys": 12000,
+                    "sells": 10279
+                },
+                "h24": {
+                    "buys": 15824,
+                    "sells": 13445
+                }
+            },
+            "volume": {
+                "h24": 21948463.32,
+                "h6": 18147318.3,
+                "h1": 61057.44,
+                "m5": 2404.18
+            },
+            "priceChange": {
+                "m5": 2.96,
+                "h1": -15.18,
+                "h6": -44.73,
+                "h24": -19.17
+            },
+            "liquidity": {
+                "usd": 43971.77,
+                "base": 131514,
+                "quote": 45.9874
+            },
+            "fdv": 263397083,
+            "marketCap": 263397083,
+            "pairCreatedAt": 1739143936000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/ergu3ky7us6ekmr9psa7lmdjwpmmkrv1g9uvgsbq5wr1",
+            "pairAddress": "ErGU3ky7Us6eKMr9psA7LmDjWpMmkrv1g9UVgsbQ5WR1",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001297",
+            "priceUsd": "0.2636",
+            "txns": {
+                "m5": {
+                    "buys": 12,
+                    "sells": 19
+                },
+                "h1": {
+                    "buys": 253,
+                    "sells": 282
+                },
+                "h6": {
+                    "buys": 3953,
+                    "sells": 3713
+                },
+                "h24": {
+                    "buys": 5907,
+                    "sells": 5415
+                }
+            },
+            "volume": {
+                "h24": 11192996.06,
+                "h6": 10739822,
+                "h1": 848849.88,
+                "m5": 50299.16
+            },
+            "priceChange": {
+                "m5": 2.5,
+                "h1": -16.61,
+                "h6": -45.97,
+                "h24": 50.62
+            },
+            "liquidity": {
+                "usd": 274232.82,
+                "base": 899613,
+                "quote": 182.5831
+            },
+            "fdv": 263603200,
+            "marketCap": 263603200,
+            "pairCreatedAt": 1739143311000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/8bxxd8aw9zfwwpsnwp1wxw5j3q47y1yluch8yimzhmrv",
+            "pairAddress": "8BxXd8aw9zFwwpsNwp1wxW5j3Q47Y1YLUCh8YimZhMRv",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001317",
+            "priceUsd": "0.2673",
+            "txns": {
+                "m5": {
+                    "buys": 11,
+                    "sells": 18
+                },
+                "h1": {
+                    "buys": 114,
+                    "sells": 137
+                },
+                "h6": {
+                    "buys": 2198,
+                    "sells": 2409
+                },
+                "h24": {
+                    "buys": 4508,
+                    "sells": 4349
+                }
+            },
+            "volume": {
+                "h24": 17804108.35,
+                "h6": 9239143.63,
+                "h1": 423115.9,
+                "m5": 19647.38
+            },
+            "priceChange": {
+                "m5": 4.51,
+                "h1": -13.03,
+                "h6": -45.13,
+                "h24": 45.39
+            },
+            "liquidity": {
+                "usd": 273312.04,
+                "base": 480633,
+                "quote": 713.7581
+            },
+            "fdv": 267365244,
+            "marketCap": 267365244,
+            "pairCreatedAt": 1739143427000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/eouefj7lp1hcxfaxmebqamxqctmawxtpzvaalgguvkxk",
+            "pairAddress": "EouEFJ7LP1HcxFaXMeBQAmXqcTmAwxtPZvAALGguVkxk",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001202",
+            "priceUsd": "0.2443",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 16
+                },
+                "h1": {
+                    "buys": 39,
+                    "sells": 99
+                },
+                "h6": {
+                    "buys": 985,
+                    "sells": 1222
+                },
+                "h24": {
+                    "buys": 2666,
+                    "sells": 2607
+                }
+            },
+            "volume": {
+                "h24": 16725446.11,
+                "h6": 7419294.69,
+                "h1": 288952.4,
+                "m5": 7111.87
+            },
+            "priceChange": {
+                "m5": -4.03,
+                "h1": -20.78,
+                "h6": -50.28,
+                "h24": 357
+            },
+            "liquidity": {
+                "usd": 510082.78,
+                "base": 1469439,
+                "quote": 743.5744
+            },
+            "fdv": 244333425,
+            "marketCap": 244333425,
+            "pairCreatedAt": 1739142674000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/hjgsbirzcgnw1ritkwdbsxngx984vhucw9yyjwbzoupa",
+            "pairAddress": "HJGSbirzCgNw1ritKWdbsxNgX984VhUCw9yYjwBZoupA",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.2655",
+            "priceUsd": "0.2655",
+            "txns": {
+                "m5": {
+                    "buys": 19,
+                    "sells": 12
+                },
+                "h1": {
+                    "buys": 241,
+                    "sells": 292
+                },
+                "h6": {
+                    "buys": 5808,
+                    "sells": 5651
+                },
+                "h24": {
+                    "buys": 6720,
+                    "sells": 6313
+                }
+            },
+            "volume": {
+                "h24": 3024995.67,
+                "h6": 2748216.73,
+                "h1": 100546.51,
+                "m5": 2772.29
+            },
+            "priceChange": {
+                "m5": 4.26,
+                "h1": -13.89,
+                "h6": -44.77,
+                "h24": 7.77
+            },
+            "liquidity": {
+                "usd": 15695.34,
+                "base": 38334,
+                "quote": 5513.7203
+            },
+            "fdv": 265598598,
+            "marketCap": 265598598,
+            "pairCreatedAt": 1739147359000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/2lq1pzbtszezazxqnwizygwan2mzjujfhiskxejnwthm",
+            "pairAddress": "2LQ1PzBtSZeZaZxQNwiZYGWaN2mzJujFHiskXEJnWtHM",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.2611",
+            "priceUsd": "0.2611",
+            "txns": {
+                "m5": {
+                    "buys": 14,
+                    "sells": 17
+                },
+                "h1": {
+                    "buys": 141,
+                    "sells": 237
+                },
+                "h6": {
+                    "buys": 1848,
+                    "sells": 2048
+                },
+                "h24": {
+                    "buys": 1993,
+                    "sells": 2161
+                }
+            },
+            "volume": {
+                "h24": 752060.52,
+                "h6": 731812.63,
+                "h1": 72332.11,
+                "m5": 3253.51
+            },
+            "priceChange": {
+                "m5": 0.78,
+                "h1": -16.63,
+                "h6": -45.73,
+                "h24": -31.88
+            },
+            "liquidity": {
+                "usd": 81294.48,
+                "base": 186842,
+                "quote": 32494
+            },
+            "fdv": 261180131,
+            "marketCap": 261180131,
+            "pairCreatedAt": 1739149229000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/4cmn2zyyrzz2iej3qfa4j2co9avd5sv992u7phykuhtc",
+            "pairAddress": "4cMn2zyYRZZ2iEj3qFA4J2co9AVD5Sv992u7PHYKuhTc",
+            "labels": [
+                "CPMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001264",
+            "priceUsd": "0.2569",
+            "txns": {
+                "m5": {
+                    "buys": 11,
+                    "sells": 5
+                },
+                "h1": {
+                    "buys": 99,
+                    "sells": 140
+                },
+                "h6": {
+                    "buys": 1025,
+                    "sells": 1096
+                },
+                "h24": {
+                    "buys": 1025,
+                    "sells": 1096
+                }
+            },
+            "volume": {
+                "h24": 458061.17,
+                "h6": 458061.17,
+                "h1": 51195.86,
+                "m5": 2089.24
+            },
+            "priceChange": {
+                "m5": -0.03,
+                "h1": -18.67,
+                "h6": -58.73,
+                "h24": -58.73
+            },
+            "liquidity": {
+                "usd": 160767.88,
+                "base": 312883,
+                "quote": 395.6876
+            },
+            "fdv": 256913308,
+            "marketCap": 256913308,
+            "pairCreatedAt": 1739154491000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/44cj4ig7kr95plneuz2vyuk1ekh55ud1y4yuruurtjpc",
+            "pairAddress": "44cJ4ig7Kr95PLnEuZ2VyUK1eKH55Ud1y4YurUurtjPC",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001212",
+            "priceUsd": "0.2462",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 5
+                },
+                "h1": {
+                    "buys": 30,
+                    "sells": 27
+                },
+                "h6": {
+                    "buys": 261,
+                    "sells": 352
+                },
+                "h24": {
+                    "buys": 748,
+                    "sells": 759
+                }
+            },
+            "volume": {
+                "h24": 941091.4,
+                "h6": 376539.81,
+                "h1": 67627.93,
+                "m5": 1797.27
+            },
+            "priceChange": {
+                "m5": -5.05,
+                "h1": -29.53,
+                "h6": -49.06,
+                "h24": 395
+            },
+            "liquidity": {
+                "usd": 57736.61,
+                "base": 145512,
+                "quote": 107.9317
+            },
+            "fdv": 246217010,
+            "marketCap": 246217010,
+            "pairCreatedAt": 1739142632000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/4wgedyjaxzngqfsnktm5gd1ky3gw25kah4avwf4gsezk",
+            "pairAddress": "4WgeDYJAXZngQfSnKTm5Gd1Ky3gW25kaH4aVwf4gSeZK",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001314",
+            "priceUsd": "0.2669",
+            "txns": {
+                "m5": {
+                    "buys": 2,
+                    "sells": 1
+                },
+                "h1": {
+                    "buys": 40,
+                    "sells": 108
+                },
+                "h6": {
+                    "buys": 274,
+                    "sells": 479
+                },
+                "h24": {
+                    "buys": 515,
+                    "sells": 769
+                }
+            },
+            "volume": {
+                "h24": 283058.55,
+                "h6": 247168.7,
+                "h1": 88514.99,
+                "m5": 1705.63
+            },
+            "priceChange": {
+                "m5": 4.92,
+                "h1": -16.21,
+                "h6": -45.41,
+                "h24": 58.34
+            },
+            "liquidity": {
+                "usd": 135571.95,
+                "base": 99629,
+                "quote": 536.4341
+            },
+            "fdv": 266941473,
+            "marketCap": 266941473,
+            "pairCreatedAt": 1739143370000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/2hslaqsnd5cs4864qj2x4tctgjhamrjqmqmgndythctf",
+            "pairAddress": "2hSLAqSNd5CS4864Qj2x4tctGjhaMrJqmqMGNdyThcTF",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+                "name": "Raydium",
+                "symbol": "RAY"
+            },
+            "priceNative": "0.08544",
+            "priceUsd": "0.4118",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 2
+                },
+                "h6": {
+                    "buys": 2248,
+                    "sells": 2151
+                },
+                "h24": {
+                    "buys": 2428,
+                    "sells": 2303
+                }
+            },
+            "volume": {
+                "h24": 951478.79,
+                "h6": 907707.63,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h1": 1.1,
+                "h6": -14.48,
+                "h24": 0.43
+            },
+            "liquidity": {
+                "usd": 1674.03,
+                "base": 3961.2506,
+                "quote": 8.8502
+            },
+            "fdv": 411833113,
+            "marketCap": 411833113,
+            "pairCreatedAt": 1739149017000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/ambbsdnhh3qx41bbdg23nz9kjni8b3aszlvcz4n9xxwc",
+            "pairAddress": "AmbbsDnHH3QX41BbdG23NZ9kJni8B3asZLvcZ4n9XXWc",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001721",
+            "priceUsd": "0.3481",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 11,
+                    "sells": 20
+                },
+                "h24": {
+                    "buys": 11,
+                    "sells": 20
+                }
+            },
+            "volume": {
+                "h24": 12449.33,
+                "h6": 12449.33,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h6": 0.62,
+                "h24": 0.62
+            },
+            "liquidity": {
+                "usd": 85975.74,
+                "base": 246922,
+                "quote": 0.0482
+            },
+            "fdv": 348149788,
+            "marketCap": 348149788,
+            "pairCreatedAt": 1739168089000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/4a9peo2myahhvpgx9jzql6szubjyra6egroleaehe2a4",
+            "pairAddress": "4a9PEo2myAHhvpGX9JZqL6SZUbJyrA6EGRoLEaeHE2a4",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001315",
+            "priceUsd": "0.2672",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 2
+                },
+                "h1": {
+                    "buys": 48,
+                    "sells": 82
+                },
+                "h6": {
+                    "buys": 475,
+                    "sells": 627
+                },
+                "h24": {
+                    "buys": 1248,
+                    "sells": 1582
+                }
+            },
+            "volume": {
+                "h24": 264179.14,
+                "h6": 123714.48,
+                "h1": 29643.45,
+                "m5": 612.22
+            },
+            "priceChange": {
+                "m5": 5.32,
+                "h1": -13.53,
+                "h6": -44.83,
+                "h24": 5.81
+            },
+            "liquidity": {
+                "usd": 34706.04,
+                "base": 95881,
+                "quote": 44.7002
+            },
+            "fdv": 267271950,
+            "marketCap": 267271950,
+            "pairCreatedAt": 1739145232000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/dcsxsbnvcsumja5fgmz38mzegpvwj51fop2zr7ukap26",
+            "pairAddress": "DcSxsBnvCSuMJa5fgmz38MZegpvWJ51FoP2ZR7UKAP26",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+                "name": "Raydium",
+                "symbol": "RAY"
+            },
+            "priceNative": "0.05962",
+            "priceUsd": "0.2879",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 15,
+                    "sells": 38
+                },
+                "h6": {
+                    "buys": 1510,
+                    "sells": 1666
+                },
+                "h24": {
+                    "buys": 2200,
+                    "sells": 2266
+                }
+            },
+            "volume": {
+                "h24": 829820.11,
+                "h6": 601968.47,
+                "h1": 48.83,
+                "m5": 0
+            },
+            "priceChange": {
+                "h1": -7.83,
+                "h6": -32.11,
+                "h24": -35.39
+            },
+            "liquidity": {
+                "usd": 4370.05,
+                "base": 15133,
+                "quote": 2.44
+            },
+            "fdv": 287980860,
+            "marketCap": 287980860,
+            "pairCreatedAt": 1739148568000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/eatza4e1wthgw7qmxbbmgxj4ib3udg4wmm2uutbblqsm",
+            "pairAddress": "EATZa4e1wthGW7QmxBBmGXj4ib3UDG4WMm2UUTbbLqSM",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001310",
+            "priceUsd": "0.2662",
+            "txns": {
+                "m5": {
+                    "buys": 3,
+                    "sells": 5
+                },
+                "h1": {
+                    "buys": 33,
+                    "sells": 71
+                },
+                "h6": {
+                    "buys": 542,
+                    "sells": 726
+                },
+                "h24": {
+                    "buys": 1141,
+                    "sells": 1348
+                }
+            },
+            "volume": {
+                "h24": 220233.33,
+                "h6": 92921.73,
+                "h1": 1592.65,
+                "m5": 45.88
+            },
+            "priceChange": {
+                "m5": 3.46,
+                "h1": -14.66,
+                "h6": -45.9,
+                "h24": 38.1
+            },
+            "liquidity": {
+                "usd": 2645.25,
+                "base": 7023.6947,
+                "quote": 3.8166
+            },
+            "fdv": 266245057,
+            "marketCap": 266245057,
+            "pairCreatedAt": 1739143419000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/da2js9ibf2qas4xk8cscgnhfsburvdbzqhbfz5qlgrrc",
+            "pairAddress": "DA2Js9iBf2Qas4Xk8CscGNhfsbURvDbzQhbfz5QLGRrC",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+                "name": "Raydium",
+                "symbol": "RAY"
+            },
+            "priceNative": "0.05503",
+            "priceUsd": "0.2654",
+            "txns": {
+                "m5": {
+                    "buys": 33,
+                    "sells": 36
+                },
+                "h1": {
+                    "buys": 373,
+                    "sells": 457
+                },
+                "h6": {
+                    "buys": 668,
+                    "sells": 748
+                },
+                "h24": {
+                    "buys": 668,
+                    "sells": 748
+                }
+            },
+            "volume": {
+                "h24": 59221.68,
+                "h6": 59221.68,
+                "h1": 37981.36,
+                "m5": 1709.22
+            },
+            "priceChange": {
+                "m5": 2.19,
+                "h1": -14.61,
+                "h6": -4.84,
+                "h24": -4.84
+            },
+            "liquidity": {
+                "usd": 9321.27,
+                "base": 33121,
+                "quote": 109.6045
+            },
+            "fdv": 265467068,
+            "marketCap": 265467068,
+            "pairCreatedAt": 1739166061000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/8r79ejc5pnupcah5vqeeupruq2zu3xe922jemx5232go",
+            "pairAddress": "8r79EJC5PNupcAh5vQEEUprUQ2zU3xE922JEMx5232go",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.2495",
+            "priceUsd": "0.2495",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 1
+                },
+                "h1": {
+                    "buys": 21,
+                    "sells": 23
+                },
+                "h6": {
+                    "buys": 292,
+                    "sells": 323
+                },
+                "h24": {
+                    "buys": 649,
+                    "sells": 677
+                }
+            },
+            "volume": {
+                "h24": 222909.7,
+                "h6": 71592.45,
+                "h1": 2414.01,
+                "m5": 6.17
+            },
+            "priceChange": {
+                "h1": -19.8,
+                "h6": -48.19,
+                "h24": -11.91
+            },
+            "liquidity": {
+                "usd": 6522.84,
+                "base": 20302,
+                "quote": 1456.02151
+            },
+            "fdv": 249563850,
+            "marketCap": 249563850,
+            "pairCreatedAt": 1739143624000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "orca",
+            "url": "https://dexscreener.com/solana/a9y8aqwbz9ousw6xp2zyxozfcfjp9z23ktuowiutw6sm",
+            "pairAddress": "A9Y8AQwBz9oUSW6xP2zyxozfCfjp9Z23KtUowiUTw6sm",
+            "labels": [
+                "wp"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001310",
+            "priceUsd": "0.2661",
+            "txns": {
+                "m5": {
+                    "buys": 6,
+                    "sells": 4
+                },
+                "h1": {
+                    "buys": 84,
+                    "sells": 102
+                },
+                "h6": {
+                    "buys": 1328,
+                    "sells": 1470
+                },
+                "h24": {
+                    "buys": 1328,
+                    "sells": 1470
+                }
+            },
+            "volume": {
+                "h24": 458247.33,
+                "h6": 458247.33,
+                "h1": 10673.11,
+                "m5": 36.26
+            },
+            "priceChange": {
+                "m5": 3.96,
+                "h1": -14.02,
+                "h6": -64.55,
+                "h24": -64.55
+            },
+            "liquidity": {
+                "usd": 6105.44,
+                "base": 20356,
+                "quote": 3.3838
+            },
+            "fdv": 266162576,
+            "marketCap": 266162576,
+            "pairCreatedAt": 1739153107000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/4rgxmdppsdedp2xkugaamgu9zo5f3kr4exmwg3e9jiu8",
+            "pairAddress": "4rgXMDppsDEdP2XkugAamGU9Zo5F3kR4EXmWG3e9JiU8",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001283",
+            "priceUsd": "0.2606",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 2
+                },
+                "h1": {
+                    "buys": 23,
+                    "sells": 33
+                },
+                "h6": {
+                    "buys": 323,
+                    "sells": 432
+                },
+                "h24": {
+                    "buys": 551,
+                    "sells": 718
+                }
+            },
+            "volume": {
+                "h24": 261175.95,
+                "h6": 143739.19,
+                "h1": 1728.74,
+                "m5": 44.88
+            },
+            "priceChange": {
+                "m5": -1.17,
+                "h1": -18.42,
+                "h6": -45.29,
+                "h24": 339
+            },
+            "liquidity": {
+                "usd": 2853.37,
+                "base": 5348.2022,
+                "quote": 7.1831
+            },
+            "fdv": 260684524,
+            "marketCap": 260684524,
+            "pairCreatedAt": 1739142567000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/81xfcwfkvschf7xk8vvp86rbjbyodcaxrrp7nqvlgfvj",
+            "pairAddress": "81xFCwfKVscHF7xK8vVP86rbjByoDCaxRrP7nQVLGFVj",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001242",
+            "priceUsd": "0.2519",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 2
+                },
+                "h1": {
+                    "buys": 10,
+                    "sells": 13
+                },
+                "h6": {
+                    "buys": 25,
+                    "sells": 79
+                },
+                "h24": {
+                    "buys": 25,
+                    "sells": 79
+                }
+            },
+            "volume": {
+                "h24": 30824.38,
+                "h6": 30824.38,
+                "h1": 8454.7,
+                "m5": 535.67
+            },
+            "priceChange": {
+                "m5": -4.01,
+                "h1": -17.01,
+                "h6": -55.21,
+                "h24": -55.21
+            },
+            "liquidity": {
+                "usd": 20480.9,
+                "base": 50169,
+                "quote": 38.6341
+            },
+            "fdv": 251993220,
+            "marketCap": 251993220,
+            "pairCreatedAt": 1739159277000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "orca",
+            "url": "https://dexscreener.com/solana/pjmtcunfjaqbdz22eafw7ggt2zgshkgux1w2mmgk4tc",
+            "pairAddress": "pjMtcunFjaqbDz22EafW7GGT2zGShKgux1W2MmgK4Tc",
+            "labels": [
+                "wp"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.2642",
+            "priceUsd": "0.2642",
+            "txns": {
+                "m5": {
+                    "buys": 3,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 46,
+                    "sells": 56
+                },
+                "h6": {
+                    "buys": 1203,
+                    "sells": 1155
+                },
+                "h24": {
+                    "buys": 1203,
+                    "sells": 1155
+                }
+            },
+            "volume": {
+                "h24": 809372.33,
+                "h6": 809372.33,
+                "h1": 620.62,
+                "m5": 10.56
+            },
+            "priceChange": {
+                "m5": 1.6,
+                "h1": -17.9,
+                "h6": -53.38,
+                "h24": -53.38
+            },
+            "liquidity": {
+                "usd": 1025.8,
+                "base": 1937.1344,
+                "quote": 513.9588
+            },
+            "fdv": 264227187,
+            "marketCap": 264227187,
+            "pairCreatedAt": 1739155327000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/anlmve8ugeqt2kzgtqxtztamyg7e1u6fzis9qkuxjtfv",
+            "pairAddress": "ANLMvE8uGeQt2KZGTqxTZtamYG7e1U6FZis9QkuxJtfV",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001311",
+            "priceUsd": "0.2664",
+            "txns": {
+                "m5": {
+                    "buys": 2,
+                    "sells": 5
+                },
+                "h1": {
+                    "buys": 45,
+                    "sells": 99
+                },
+                "h6": {
+                    "buys": 317,
+                    "sells": 490
+                },
+                "h24": {
+                    "buys": 317,
+                    "sells": 490
+                }
+            },
+            "volume": {
+                "h24": 102181.03,
+                "h6": 102181.03,
+                "h1": 12807.55,
+                "m5": 321.44
+            },
+            "priceChange": {
+                "m5": 4.98,
+                "h1": -12.64,
+                "h6": -48.67,
+                "h24": -48.67
+            },
+            "liquidity": {
+                "usd": 4176.22,
+                "base": 5052.5495,
+                "quote": 13.9312
+            },
+            "fdv": 266448008,
+            "marketCap": 266448008,
+            "pairCreatedAt": 1739150843000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/dt7npuwfbdfwklkkbp3ajt8opwxb2tjhy7vwpkvtzrrf",
+            "pairAddress": "DT7NPUwFBdFWkLKkBP3AJt8opWXB2TJhY7VwPKVTZRRF",
+            "labels": [
+                "CLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+                "name": "Stool Prisondente",
+                "symbol": "jailstool"
+            },
+            "priceNative": "2.8322",
+            "priceUsd": "0.2635",
+            "txns": {
+                "m5": {
+                    "buys": 41,
+                    "sells": 12
+                },
+                "h1": {
+                    "buys": 210,
+                    "sells": 264
+                },
+                "h6": {
+                    "buys": 316,
+                    "sells": 347
+                },
+                "h24": {
+                    "buys": 316,
+                    "sells": 347
+                }
+            },
+            "volume": {
+                "h24": 23424.32,
+                "h6": 23424.32,
+                "h1": 15571.04,
+                "m5": 1343.56
+            },
+            "priceChange": {
+                "m5": 1.67,
+                "h1": -15.3,
+                "h6": -9.86,
+                "h24": -9.86
+            },
+            "liquidity": {
+                "usd": 6197.24,
+                "base": 14041,
+                "quote": 26839
+            },
+            "fdv": 263517382,
+            "marketCap": 263517382,
+            "pairCreatedAt": 1739166480000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/duepz4xw5bre7havk6r4gu23xxgdd33wbjszra8v8yt",
+            "pairAddress": "duEpZ4XW5bRE7havk6r4gU23XXGDD33WBJSzra8v8yt",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001830",
+            "priceUsd": "0.3677",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 81,
+                    "sells": 124
+                },
+                "h24": {
+                    "buys": 90,
+                    "sells": 133
+                }
+            },
+            "volume": {
+                "h24": 12920.92,
+                "h6": 12159.12,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h6": 33.48,
+                "h24": 127
+            },
+            "liquidity": {
+                "usd": 7134.29,
+                "base": 19198,
+                "quote": 0.3677
+            },
+            "fdv": 367760766,
+            "marketCap": 367760766,
+            "pairCreatedAt": 1739143274000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/cpb7uc1mh7ygzen8khdkehc6nmets96rjstjzvej8mvn",
+            "pairAddress": "Cpb7uc1mh7YgzEN8Khdkehc6nMETS96RjStjzVeJ8Mvn",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001765",
+            "priceUsd": "0.3561",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 137,
+                    "sells": 183
+                },
+                "h24": {
+                    "buys": 137,
+                    "sells": 183
+                }
+            },
+            "volume": {
+                "h24": 4306.37,
+                "h6": 4306.37,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h6": -31.71,
+                "h24": -31.71
+            },
+            "liquidity": {
+                "usd": 1508.85,
+                "base": 1494.5711,
+                "quote": 4.841
+            },
+            "fdv": 356168571,
+            "marketCap": 356168571,
+            "pairCreatedAt": 1739160501000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/8vczy1pvga2stbrktz4t1p4g8vsxuyerqpanme8sfxgc",
+            "pairAddress": "8vCzy1pVgA2stbrktZ4T1p4g8VSxuYERqpaNme8SfxGC",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+                "name": "Stool Prisondente",
+                "symbol": "jailstool"
+            },
+            "priceNative": "5.09090",
+            "priceUsd": "0.4822",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 32,
+                    "sells": 15
+                },
+                "h24": {
+                    "buys": 32,
+                    "sells": 17
+                }
+            },
+            "volume": {
+                "h24": 2369.35,
+                "h6": 2260.38,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h6": 4.77,
+                "h24": 2.23
+            },
+            "liquidity": {
+                "usd": 1259.29,
+                "base": 86.799,
+                "quote": 12852
+            },
+            "fdv": 482215897,
+            "marketCap": 482215897,
+            "pairCreatedAt": 1739150432000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/acskv8vjnrf73yf9kugkhhpoahts63kayvlifccbn4pp",
+            "pairAddress": "AcSKv8vjNrf73Yf9KuGKhhpoahTS63KAYVLifcCbN4PP",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.001349",
+            "priceUsd": "0.2752",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 12,
+                    "sells": 14
+                }
+            },
+            "volume": {
+                "h24": 73.29,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h24": -17.14
+            },
+            "liquidity": {
+                "usd": 1022.56,
+                "base": 6.6659,
+                "quote": 5.006047
+            },
+            "fdv": 275251054,
+            "marketCap": 275251054,
+            "pairCreatedAt": 1739144122000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "solana",
+            "dexId": "meteora",
+            "url": "https://dexscreener.com/solana/94ezcpuiwjteav7dhrouc8unq5lrmgzrm2hzpzq2xrzm",
+            "pairAddress": "94eZCpUiWjtEav7dhroUc8uNQ5LRMgzrm2hzpZq2xrzM",
+            "labels": [
+                "DLMM"
+            ],
+            "baseToken": {
+                "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+                "name": "Central African Republic Meme",
+                "symbol": "CAR"
+            },
+            "quoteToken": {
+                "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.2635",
+            "priceUsd": "0.2635",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 2
+                },
+                "h1": {
+                    "buys": 22,
+                    "sells": 34
+                },
+                "h6": {
+                    "buys": 413,
+                    "sells": 408
+                },
+                "h24": {
+                    "buys": 642,
+                    "sells": 597
+                }
+            },
+            "volume": {
+                "h24": 58326.77,
+                "h6": 15112.79,
+                "h1": 422.78,
+                "m5": 27.56
+            },
+            "priceChange": {
+                "m5": 1.64,
+                "h1": -14.94,
+                "h6": -44.69,
+                "h24": 15.43
+            },
+            "liquidity": {
+                "usd": 622.18,
+                "base": 1129.5161,
+                "quote": 324.4797
+            },
+            "fdv": 263564997,
+            "marketCap": 263564997,
+            "pairCreatedAt": 1739145504000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump.png?key=6d1ee6",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump/header.png?key=6d1ee6",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump?timestamp=1739172000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://pump.fun/coin/7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/FA_Touadera/status/1888722674265764017"
+                    }
+                ]
+            }
+        }
+    ]
+}

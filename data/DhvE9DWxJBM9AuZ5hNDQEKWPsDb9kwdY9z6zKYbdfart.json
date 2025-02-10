@@ -1,0 +1,80 @@
+{
+    "schemaVersion": "1.0.0",
+    "pairs": [
+        {
+            "chainId": "solana",
+            "dexId": "raydium",
+            "url": "https://dexscreener.com/solana/bdtkwguqcx4vwn2bobydalhru9egehrjpz3ispcz8ce2",
+            "pairAddress": "BDtKWGuqcx4Vwn2bobyDALHru9egeHrJpz3isPcz8cE2",
+            "baseToken": {
+                "address": "DhvE9DWxJBM9AuZ5hNDQEKWPsDb9kwdY9z6zKYbdfart",
+                "name": "Baby Fart Boy",
+                "symbol": "BFARTBOY"
+            },
+            "quoteToken": {
+                "address": "So11111111111111111111111111111111111111112",
+                "name": "Wrapped SOL",
+                "symbol": "SOL"
+            },
+            "priceNative": "0.00000001177",
+            "priceUsd": "0.000002381",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 5
+                },
+                "h24": {
+                    "buys": 19,
+                    "sells": 65
+                }
+            },
+            "volume": {
+                "h24": 1711.57,
+                "h6": 8.44,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "h6": -9.94,
+                "h24": -57.45
+            },
+            "liquidity": {
+                "usd": 2923.48,
+                "base": 613200062,
+                "quote": 7.2369
+            },
+            "fdv": 2381,
+            "marketCap": 2381,
+            "pairCreatedAt": 1739015538000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/DhvE9DWxJBM9AuZ5hNDQEKWPsDb9kwdY9z6zKYbdfart.png?key=5bc3ec",
+                "header": "https://dd.dexscreener.com/ds-data/tokens/solana/DhvE9DWxJBM9AuZ5hNDQEKWPsDb9kwdY9z6zKYbdfart/header.png?key=5bc3ec",
+                "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DhvE9DWxJBM9AuZ5hNDQEKWPsDb9kwdY9z6zKYbdfart?timestamp=1739175000000",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "http://babyfartsol.com"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/Babyfartboysol"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/babyfartboysol"
+                    }
+                ]
+            }
+        }
+    ]
+}
